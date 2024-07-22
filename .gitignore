@@ -1,0 +1,6 @@
+node_modules
+
+# Cypress report files
+e2e/screenshots
+e2e/videos
+e2e/downloads
